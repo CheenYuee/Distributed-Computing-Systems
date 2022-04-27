@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="crashed_sql6">
+    <output-path>$PROJECT_DIR$/out/artifacts/crashed_sql6</output-path>
+    <root id="archive" name="crashed_sql6.jar">
+      <element id="module-output" name="oj2022" />
+      <element id="module-source" name="oj2022" />
+    </root>
+  </artifact>
+</component>
